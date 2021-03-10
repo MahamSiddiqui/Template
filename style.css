@@ -1,0 +1,31 @@
+main{
+    background-color: yellow;
+}
+ul{
+    list-style-type: none;
+    float: left;
+    width: 275px;
+    margin: 20px 0 20px 0;
+}
+.heading {
+ color: black;
+ font-size: 30px;
+ font-family: monospace;
+ margin: 10px 30px;
+ font-weight: bold;
+}
+li.icon {
+    margin: 10px 95px;
+    font-size: 40px;
+    
+}
+.text-content {
+    text-align: center;
+    line-height: normal;
+}
+button {
+    text-align: center;
+    padding: 15px 15px;
+    border-radius:10px;
+    margin: 10px 0 0 60px;
+}
